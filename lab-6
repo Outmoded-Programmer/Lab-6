@@ -6,4 +6,5 @@ Console.WriteLine("4. Carrots");
 Console.WriteLine("5. Onions");
 
 
+Console.WriteLine("6. Garlic");
 Console.WriteLine("7. Honey");
